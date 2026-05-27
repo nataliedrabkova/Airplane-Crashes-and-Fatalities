@@ -22,5 +22,6 @@ The analysis is divided into the following key phases:
 * **Statistics & Econometrics:** `statsmodels`
 
 **Author:** Natalie Drábková
+<img width="700" height="487" alt="image" src="https://github.com/user-attachments/assets/aa554f10-c11a-4ac6-ba33-5d92524493dd" />
 
 
