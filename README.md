@@ -1,4 +1,4 @@
-## Historical Analysis and Econometric Modeling of Global Aviation Accidents (1908–Present)
+## Historical Analysis and Econometric Modeling of Global Aviation Accidents (1908–2009)
 
 ###  Project Overview
 This project focuses on a comprehensive empirical analysis of historical aviation accidents dating back to 1908. The main objective is to process and clean raw historical data, identify long-term temporal trends, determine high-risk aircraft operators, and deploy an Ordinary Least Squares (OLS) regression model to statistically evaluate the relationship between the number of individuals aboard and the total fatalities.
